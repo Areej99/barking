@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186434404533",
+    "firebase_url": "https://parking-38ad3.firebaseio.com",
+    "project_id": "parking-38ad3",
+    "storage_bucket": "parking-38ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186434404533:android:37f8aab8b70deefa853efc",
+        "android_client_info": {
+          "package_name": "com.joe.barking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186434404533-lfd0hks1fh0ah44op793l9q8r339daoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCImzURrZmoO8eeJGA8XiHOQjsBxLMsrT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186434404533-lfd0hks1fh0ah44op793l9q8r339daoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
